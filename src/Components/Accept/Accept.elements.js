@@ -9,6 +9,7 @@ export const DivAccept = styled.div `
  
     img {
         margin-right: 10px;
+        width: 35px;
     }
 
     :nth-last-child(2) {
